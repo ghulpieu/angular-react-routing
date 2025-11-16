@@ -1,3 +1,9 @@
+### Links
+* https://github.com/ganatan/angular-react-routing
+* https://github.com/ghulpieu/angular-react-routing
+
+### NOTES
+* withPreloading must be called from the top level route config.  Calling either PreloadAllModules or CustomPreloadingStrategy from a sub-level provides no functionality to the routing.
 
 ### Installation
 * `npm install` (installing dependencies)
